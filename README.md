@@ -1,2 +1,2 @@
 # demo
-This demo for working with repositories..
+This is demo for working with repositories..
